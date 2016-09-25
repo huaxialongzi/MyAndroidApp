@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ViewPagerApp</string>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="view_pager">ViewPager</string>
 </resources>
